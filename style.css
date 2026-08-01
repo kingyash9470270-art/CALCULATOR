@@ -64,3 +64,9 @@ button:hover{
 .operator{
     color: #f67c14
 }
+@media screen and (max-width: 1200px){
+    .body{
+        grid-template-columns: 1fr;
+        padding: 20px;
+    }
+}
