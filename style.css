@@ -13,6 +13,7 @@ body{
     align-items: center;
     background: url(image/dreamstime.jpg);
     background-size: cover;
+    position: static;
 }
 .calculator{
     padding: 20px;
